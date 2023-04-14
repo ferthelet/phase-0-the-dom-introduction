@@ -2,11 +2,11 @@
 
 ## Learning Goals
 
-- Identify the Document Object Model (DOM).
-- Explain how the DOM is created.
-- Identify the DOM as accessed by JavaScript objects.
-- Introduce the Console and Chrome DevTools.
-- Learn how to open HTML files in the browser.
+- Identify the Document Object Model (DOM)
+- Explain how the DOM is created
+- Identify the DOM as accessed by JavaScript objects
+- Introduce the Console and Chrome DevTools
+- Learn how to open HTML files in the browser
 
 ## Introduction
 
